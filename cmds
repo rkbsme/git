@@ -8,3 +8,15 @@ Add all files to local repo
 # git add -A
 # git commit -a -m "Cloned and uploaded address book app"
 
+Create New Repo on Git Hub.com
+
+#git config --global user.email "ramakrishna.bejjanki@gmail.com"
+#git config --global user.name "Ramakrishna Bejjanki"
+
+#git remote set-url origin https://github.com/rkbsme/ansible.git
+#git remote add origin https://github.com/rkbsme/ansible.git
+
+#git push -u origin master
+
+#git remote -v
+
