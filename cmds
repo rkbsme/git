@@ -1,0 +1,10 @@
+Clone a project from GitHub
+#git clone https://github.com/vaadin/addressbook.git
+
+Initialize a local Git repository for the project
+#git init
+Add all files to local repo
+# git add .
+# git add -A
+# git commit -a -m "Cloned and uploaded address book app"
+
