@@ -19,7 +19,10 @@ Create New Repo on Git Hub.com
 #git remote add origin https://github.com/rkbsme/ansible.git
 
 #git remote -v
-#git push -u origin master
+#git push -u origin main
+
+------Store username and pwd
+#git config --global credential.helper store
 
 -------------Ignore files----
 
