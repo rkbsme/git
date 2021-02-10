@@ -21,5 +21,22 @@ Create New Repo on Git Hub.com
 #git remote -v
 #git push -u origin master
 
+-------------Ignore files----
+
+List all Ignored files.
+$git check-ignore *
+
+.gitignore file
+lib/* --All directoty
+!lib/file1 -- except this file
+
+$ git help clean
+$ git clean -ndX
+
+git-clean - Remove untracked files from the working tree
+-n, --dry-run - Don't actually remove anything, just show what would be done.
+-d - Remove untracked directories in addition to untracked files.
+-X - Remove only files ignored by Git.
+
 
 
